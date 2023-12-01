@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andreosincero&show_icons=true&count_private=true&hide_border=true&title_color=E8E5BC&icon_color=E8E5BC&text_color=c9d1d9&bg_color=0d1117" alt="André Oliveira github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreosincero&layout=compact&hide_border=true&title_color=E8E5BC&text_color=E8E5BC&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andreosincero&show_icons=true&theme=transparent" alt="André Oliveira github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreosincero&layout=compact&text_bold=false&show_icons=true&theme=transparent" />
 </div>
 
 <br><br>
